@@ -1,4 +1,4 @@
-# this is a readmefile
+# Git & Github Full Course
 
 we are practicing how to use git
 
